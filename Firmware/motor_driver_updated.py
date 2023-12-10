@@ -1,5 +1,3 @@
-#name: Alessandro Alberico
-#Student Number: n01417149
 #reference: https://qwiic-scmd-py.readthedocs.io/en/latest/ex2.html
 #NOTE: SETTING THE SPEED TO LESS THAN 200 WILL MAKE THE MOTOR RUN BUT IT WON'T TURN
 
