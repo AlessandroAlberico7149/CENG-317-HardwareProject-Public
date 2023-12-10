@@ -1,5 +1,3 @@
-#Name: Alessandro A.
-#Student Number: n01417149
 #Testing transistor and LED (to make sure everything is connected)
 
 import RPi.GPIO as GPIO
